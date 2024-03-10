@@ -1,3 +1,4 @@
 streamlit
 openai
 pymongo
+urllib.parse
